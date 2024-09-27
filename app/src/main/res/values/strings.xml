@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AboutMeActivity</string>
+    <string name="Pao">Pao</string>
+    <string name="halo">Halo!</string>
+    <string name="introDeutsch">Ich bin Pao, ich liebe es zu lernen und zu erkunden. Ich möchte meine Fähigkeiten jeden Tag verbessern, auch wenn ich langsamer bin als die meisten.Ein Student zu sein macht Spaß, wir müssen es einfach genießen. Jeder kann irgendwann entmutigt werden, daher müssen wir uns auch ausruhen. Es gibt auch Verantwortlichkeiten, und wir müssen lernen, wie wir sie elegant bewältigen. Schätze dich jeden Tag. Lerne Dankbarkeit. Lerne aus deinen Fehlern. Lerne zu geben und auch zu empfangen. Jeden Tag einfach lernen.</string>
+    <string name="image_inside_intro">image inside intro</string>
 </resources>
